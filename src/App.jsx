@@ -4,9 +4,13 @@ import About from './pages/About';
 import PageNotFound from './pages/PageNotFound';
 import Faq from './pages/help/Faq';
 import Form from './pages/help/Form';
+import Article from './pages/articles/Article';
+import ArticleDetail from './pages/articles/ArticleDetail';
+
 //layout
 import RootLayout from './layouts/RootLayout';
 import ContactLayout from './layouts/ContactLayout';
+import ArticlesLayout from './layouts/ArticlesLayout';
 
 //react-dom
 import {
@@ -29,6 +33,12 @@ function App() {
           <Route path="faq" element={<Faq />} />
           <Route path="form" element={<Form />} />
         </Route>
+        <Route path="articles" element={<ArticlesLayout />}>
+          <Route index element={<Article />} />
+          <Route path=":id" element={<ArticleDetail />} />
+        </Route>
+
+        {/* page not found */}
         <Route path="*" element={<PageNotFound />} />
       </Route>
     )
