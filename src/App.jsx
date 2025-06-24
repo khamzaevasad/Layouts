@@ -7,6 +7,8 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Faq from './pages/help/Faq';
 import Form from './pages/help/Form';
+import PageNotFound from './pages/PageNotFound';
+
 // react-router-dom
 import {
   createBrowserRouter,
@@ -27,6 +29,8 @@ function App() {
           <Route path="faq" element={<Faq />} />
           <Route path="form" element={<Form />} />
         </Route>
+
+        <Route path="*" element={<PageNotFound />} />
       </Route>
     )
   );
