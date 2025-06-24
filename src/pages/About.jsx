@@ -3,12 +3,12 @@ function About() {
     <div>
       <h1>About</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium
-        quam dicta natus facere sed molestiae nemo corrupti? Dolores non,
-        assumenda porro necessitatibus laboriosam voluptatibus dolor dolorum,
-        molestias dignissimos molestiae doloremque ea laborum at nam expedita
-        officiis perspiciatis reprehenderit saepe quo modi maiores rem animi
-        alias pariatur? Reiciendis, ipsa eos. Dolore!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio ab
+        corrupti eos facere, rerum dignissimos sequi. At repellat architecto
+        modi laboriosam aut reprehenderit repellendus eos, alias possimus
+        corrupti porro accusantium. Sequi, nostrum? Neque, tempore quod?
+        Voluptatum expedita itaque quia facilis totam. Modi impedit quisquam cum
+        molestias eligendi eum at facere!
       </p>
     </div>
   );

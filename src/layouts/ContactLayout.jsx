@@ -5,15 +5,15 @@ function ContactLayout() {
     <div>
       <h1>Contact</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem
-        doloribus voluptatum, minus unde quisquam illo vero aspernatur
-        voluptatem qui, dolorem aperiam iusto dignissimos quo ad odit veniam
-        perferendis odio error illum, officia aliquid. Minima officia, rem
-        repellat reprehenderit, id impedit aut dignissimos saepe fuga possimus
-        natus autem, quo explicabo architecto.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt delectus
+        eaque iusto ducimus at unde incidunt illum perspiciatis omnis similique
+        vero quod repellendus totam nostrum beatae inventore repellat voluptatum
+        quo, architecto non quaerat obcaecati hic. Minima, dolorem! Et debitis
+        reiciendis ducimus provident laborum odit, aperiam deleniti porro
+        aliquam eaque ipsa.
       </p>
       <nav>
-        <NavLink to="faq">FAQ</NavLink>
+        <NavLink to="faq">Faq</NavLink>
         <NavLink to="form">Form</NavLink>
       </nav>
       <Outlet />

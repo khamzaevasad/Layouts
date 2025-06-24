@@ -1,13 +1,12 @@
-import { Outlet, NavLink } from 'react-router-dom';
+import { NavLink, Outlet } from 'react-router-dom';
 
 function RootLayout() {
   return (
-    <>
+    <div>
       <header>
         <nav>
-          <h1>My Articles</h1>
+          <h1>My articles</h1>
           <NavLink to="/">Home</NavLink>
-          <NavLink to="/articles">Articles</NavLink>
           <NavLink to="/about">About</NavLink>
           <NavLink to="/contact">Contact</NavLink>
         </nav>
@@ -16,7 +15,7 @@ function RootLayout() {
         <Outlet />
       </main>
       <footer></footer>
-    </>
+    </div>
   );
 }
 

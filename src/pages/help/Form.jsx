@@ -1,7 +1,7 @@
 function Form() {
   return (
     <div>
-      <h1>Send Us Questions</h1>
+      <h1>Send us Questions</h1>
       <form className="form-container">
         <label className="form-control">
           <span>Your Email:</span>

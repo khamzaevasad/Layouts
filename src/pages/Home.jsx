@@ -3,12 +3,12 @@ function Home() {
     <div>
       <h1>Home</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam,
-        perferendis. Et iusto nesciunt aperiam distinctio blanditiis sequi
-        eveniet autem dicta adipisci esse eaque eligendi aut possimus itaque
-        repudiandae laborum sunt vel quidem quasi, nobis rem illo amet? Quia,
-        deleniti quisquam tenetur, placeat rem natus saepe laboriosam illo
-        molestias voluptate debitis!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla laborum
+        velit inventore recusandae mollitia dolore delectus exercitationem
+        cumque. Qui id ipsa voluptatum, et adipisci fugiat quasi optio amet
+        quis! Quos enim, est a laudantium quas eaque reiciendis! Sit sapiente
+        illo, voluptas eaque sunt, illum nisi blanditiis ipsam nobis dolores
+        fugit.
       </p>
     </div>
   );

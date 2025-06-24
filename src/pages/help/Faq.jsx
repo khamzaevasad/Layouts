@@ -2,47 +2,47 @@ function Faq() {
   return (
     <div>
       <h1>FAQ</h1>
-      <hr />
       <ul>
         <li>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis unde
-          obcaecati doloribus repellendus facilis vero tempore enim amet
-          quibusdam veniam nulla dolore est alias repudiandae aspernatur, hic, a
-          suscipit magni fugiat, quae nihil. Eum consequuntur rem officiis eos
-          asperiores, repudiandae recusandae doloribus aliquam quos maxime sint
-          consequatur culpa ipsam repellat.
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab magni rem
+          corporis magnam itaque nemo. Error sunt tempore itaque expedita nulla
+          quia quis sint deserunt. Iste accusantium architecto provident
+          doloremque perferendis repellendus itaque quidem accusamus, doloribus,
+          quae officia suscipit nesciunt deleniti tempora. Necessitatibus
+          cupiditate illo quae repudiandae adipisci obcaecati soluta?
         </li>
         <li>
-          Vitae architecto aliquid numquam enim ullam commodi ex, veritatis
-          neque impedit quae labore in accusamus ut provident quasi delectus
-          odio illum voluptatibus. Tempora sint impedit natus quibusdam,
-          reiciendis mollitia iste. Deleniti pariatur totam nam aperiam ducimus
-          minima exercitationem magni corporis. Earum facere rerum quo, pariatur
-          laudantium esse dolore ea veniam.
+          Officia odio similique accusamus quia ullam voluptatem, temporibus
+          maxime, aut tempora itaque illo, perferendis repudiandae minima
+          consectetur sunt modi earum velit dolorum pariatur nesciunt eaque.
+          Ducimus, nam. Quidem laborum tenetur recusandae a. Repellat,
+          molestiae, veniam eligendi ipsam beatae reiciendis ut, tempora sit id
+          temporibus sapiente quasi fugiat vel officiis cumque.
         </li>
         <li>
-          Eaque sint ipsum esse libero. Iste doloremque totam quae
-          necessitatibus sapiente itaque modi aliquid iusto quam iure
-          perspiciatis et ipsum hic dolorum nesciunt amet magnam rerum voluptate
-          similique sunt harum, obcaecati aspernatur accusantium vel! Omnis,
-          sequi voluptatibus rem eligendi iste sapiente dolores quaerat nemo
-          enim, adipisci corrupti nesciunt eum dolor!
+          Nobis voluptate laboriosam amet nemo. Iste magni ratione accusamus
+          porro. Possimus, in ipsa reiciendis ut consequuntur dolor repudiandae
+          voluptatum laborum cum exercitationem expedita quisquam assumenda
+          iusto ex commodi debitis! Doloribus tempora iste, necessitatibus quae
+          sint consequatur asperiores dolorem nobis est iure distinctio nemo
+          architecto fuga ratione natus totam maxime nam?
         </li>
         <li>
-          Iste mollitia officia magni nulla enim ullam illo vitae, repellat
-          molestiae natus eaque quod id officiis in ipsa? Ad aperiam possimus
-          dolorem blanditiis, dicta repellat, placeat perspiciatis error odio
-          velit nulla laudantium voluptatum officia dolor corporis. Corporis,
-          tempora. Repudiandae a explicabo hic perferendis tempora, ipsum
-          corrupti maxime alias tenetur sequi.
+          Quos omnis saepe recusandae explicabo doloribus porro aspernatur,
+          veritatis hic atque repellendus corporis deleniti ut nesciunt
+          molestias adipisci a ad et. Vel, commodi dicta! Sapiente consequuntur,
+          ad odio itaque rem aliquid error quibusdam veniam sit labore ea minus
+          repellendus mollitia, facere pariatur, eligendi minima iusto nulla
+          dolor impedit doloribus animi?
         </li>
         <li>
-          Explicabo voluptas enim et nostrum tempora magnam dolorum autem, nobis
-          iusto fugit eos, ut alias necessitatibus officiis ullam sapiente eius
-          animi facere vitae delectus perferendis ducimus praesentium? Adipisci
-          nam ipsum id modi veniam aspernatur delectus ex error, temporibus
-          obcaecati expedita. Sint corporis modi perspiciatis laboriosam aperiam
-          at incidunt unde facilis!
+          Explicabo eligendi quae consectetur delectus suscipit optio hic
+          assumenda animi sed totam maxime porro soluta nam dignissimos
+          excepturi laboriosam facilis magni praesentium, harum non
+          reprehenderit ipsum perferendis veniam aut. Eveniet, dolor tempore
+          placeat distinctio reprehenderit, neque ipsam asperiores eos nemo,
+          vero ullam possimus facere provident dignissimos adipisci accusantium
+          praesentium repellat.
         </li>
       </ul>
     </div>
